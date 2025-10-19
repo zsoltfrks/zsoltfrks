@@ -17,6 +17,7 @@
 ![Static Badge](https://img.shields.io/badge/Vue.JS-a?style=for-the-badge&logo=vuedotjs&logoColor=white&labelColor=%230d1117&color=%230d1117)
 ![Static Badge](https://img.shields.io/badge/.NET-black?style=for-the-badge&logo=dotnet&logoColor=white&logoSize=24&labelColor=%230d1117&color=%230d1117)
 ![Static Badge](https://img.shields.io/badge/laravel-a?style=for-the-badge&logo=laravel&logoColor=white&labelColor=%230d1117&color=%230d1117)
+![Static Badge](https://img.shields.io/badge/CEF-white?style=for-the-badge&logo=chromewebstore&logoColor=white&labelColor=%230d1117&color=%230d1117)
 
 ###### Machine Learning & Data Science:
 ![Static Badge](https://img.shields.io/badge/numpy-a?style=for-the-badge&logo=numpy&logoColor=white&labelColor=%230d1117&color=%230d1117)
