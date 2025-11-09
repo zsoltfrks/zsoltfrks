@@ -1,4 +1,5 @@
 ###### Software Development:
+![Static Badge](https://img.shields.io/badge/C-black?style=for-the-badge&logo=cplusplus&logoSize=24&labelColor=%230d1117&color=%230d1117)
 ![Static Badge](https://img.shields.io/badge/CPP-black?style=for-the-badge&logo=cplusplus&logoSize=24&labelColor=%230d1117&color=%230d1117)
 ![Static Badge](https://img.shields.io/badge/C%20sharp-black?style=for-the-badge&logo=cplusplus&logoSize=24&labelColor=%230d1117&color=%230d1117)
 ![Static Badge](https://img.shields.io/badge/lua-black?style=for-the-badge&logo=lua&logoColor=white&logoSize=24&labelColor=%230d1117&color=%230d1117)
