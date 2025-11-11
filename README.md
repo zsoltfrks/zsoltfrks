@@ -13,6 +13,7 @@
 ![Static Badge](https://img.shields.io/badge/react-asd?style=for-the-badge&logo=react&logoColor=white&labelColor=%230d1117&color=%230d1117)
 
 ###### Backend & Frameworks:
+![Static Badge](https://img.shields.io/badge/PHP-black?style=for-the-badge&logo=php&logoColor=white&labelColor=%230d1117&color=%230d1117)
 ![Static Badge](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nextdotjs&logoColor=white&logoSize=24&labelColor=%230d1117&color=%230d1117)
 ![Static Badge](https://img.shields.io/badge/laravel-a?style=for-the-badge&logo=laravel&logoColor=white&labelColor=%230d1117&color=%230d1117)
 ![Static Badge](https://img.shields.io/badge/CEF-white?style=for-the-badge&logo=chromewebstore&logoColor=white&labelColor=%230d1117&color=%230d1117)
