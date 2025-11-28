@@ -35,9 +35,9 @@
     <img src="https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=white&labelColor=0d1117" alt="HTML5">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=white&labelColor=0d1117">
-    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/CSS3-white?style=for-the-badge&logo=css3&logoColor=black&labelColor=white">
-    <img src="https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=white&labelColor=0d1117" alt="CSS3">
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css&logoColor=white&labelColor=0d1117">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/CSS3-white?style=for-the-badge&logo=css&logoColor=black&labelColor=white">
+    <img src="https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css&logoColor=white&labelColor=0d1117" alt="CSS3">
   </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Tailwind_CSS-0d1117?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=0d1117">
