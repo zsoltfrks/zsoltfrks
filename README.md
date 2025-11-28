@@ -1,31 +1,129 @@
 ###### Software Development:
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/C%2B%2B-black?style=for-the-badge&logo=cplusplus&logoSize=24&labelColor=%230d1117&color=%230d1117"><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/C%2B%2B-white?style=for-the-badge&logo=cplusplus&logoColor=black&logoSize=24&labelColor=%23ffffff&color=%23ffffff"><img alt="C++" src="https://img.shields.io/badge/C%2B%2B-black?style=for-the-badge&logo=cplusplus&logoSize=24&labelColor=%230d1117&color=%230d1117"></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/lua-black?style=for-the-badge&logo=lua&logoColor=white&logoSize=24&labelColor=%230d1117&color=%230d1117"><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/lua-white?style=for-the-badge&logo=lua&logoColor=black&logoSize=24&labelColor=%23ffffff&color=%23ffffff"><img alt="Lua" src="https://img.shields.io/badge/lua-black?style=for-the-badge&logo=lua&logoColor=white&logoSize=24&labelColor=%230d1117&color=%230d1117"></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=white&logoSize=24&labelColor=%230d1117&color=%230d1117"><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Python-white?style=for-the-badge&logo=python&logoColor=black&logoSize=24&labelColor=%23ffffff&color=%23ffffff"><img alt="Python" src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=white&logoSize=24&labelColor=%230d1117&color=%230d1117"></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/java-black?style=for-the-badge&logo=coffeescript&logoColor=white&logoSize=24&labelColor=%230d1117&color=%230d1117"><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/java-white?style=for-the-badge&logo=coffeescript&logoColor=black&logoSize=24&labelColor=%23ffffff&color=%23ffffff"><img alt="Java" src="https://img.shields.io/badge/java-black?style=for-the-badge&logo=coffeescript&logoColor=white&logoSize=24&labelColor=%230d1117&color=%230d1117"></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript&logoColor=white&logoSize=24&labelColor=%230d1117&color=%230d1117"><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/javascript-white?style=for-the-badge&logo=javascript&logoColor=black&logoSize=24&labelColor=%23ffffff&color=%23ffffff"><img alt="JavaScript" src="https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript&logoColor=white&logoSize=24&labelColor=%230d1117&color=%230d1117"></picture>
+<p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/C%2B%2B-0d1117?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=0d1117">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/C%2B%2B-white?style=for-the-badge&logo=cplusplus&logoColor=black&labelColor=white">
+    <img src="https://img.shields.io/badge/C%2B%2B-0d1117?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=0d1117" alt="C++">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Lua-0d1117?style=for-the-badge&logo=lua&logoColor=white&labelColor=0d1117">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Lua-white?style=for-the-badge&logo=lua&logoColor=black&labelColor=white">
+    <img src="https://img.shields.io/badge/Lua-0d1117?style=for-the-badge&logo=lua&logoColor=white&labelColor=0d1117" alt="Lua">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=white&labelColor=0d1117">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Python-white?style=for-the-badge&logo=python&logoColor=black&labelColor=white">
+    <img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=white&labelColor=0d1117" alt="Python">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=coffeescript&logoColor=white&labelColor=0d1117">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Java-white?style=for-the-badge&logo=coffeescript&logoColor=black&labelColor=white">
+    <img src="https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=0d1117" alt="Java">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=white&labelColor=0d1117">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/JavaScript-white?style=for-the-badge&logo=javascript&logoColor=black&labelColor=white">
+    <img src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=white&labelColor=0d1117" alt="JavaScript">
+  </picture>
+</p>
 
 ###### Frontend Development:
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5&logoColor=white&logoSize=24&labelColor=%230d1117&color=%230d1117"><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/html5-white?style=for-the-badge&logo=html5&logoColor=black&logoSize=24&labelColor=%23ffffff&color=%23ffffff"><img alt="HTML5" src="https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5&logoColor=white&logoSize=24&labelColor=%230d1117&color=%230d1117"></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=css&logoColor=white&logoSize=24&labelColor=%230d1117&color=%230d1117"><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/CSS-white?style=for-the-badge&logo=css&logoColor=black&logoSize=24&labelColor=%23ffffff&color=%23ffffff"><img alt="CSS" src="https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=css&logoColor=white&logoSize=24&labelColor=%230d1117&color=%230d1117"></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Tailwind%20CSS-black?style=for-the-badge&logo=tailwindcss&logoColor=white&logoSize=24&labelColor=%230d1117&color=%230d1117"><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Tailwind%20CSS-white?style=for-the-badge&logo=tailwindcss&logoColor=black&logoSize=24&labelColor=%23ffffff&color=%23ffffff"><img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-black?style=for-the-badge&logo=tailwindcss&logoColor=white&logoSize=24&labelColor=%230d1117&color=%230d1117"></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Bootstrap%20CSS-black?style=for-the-badge&logo=bootstrap&logoColor=white&logoSize=24&labelColor=%230d1117&color=%230d1117"><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Bootstrap%20CSS-white?style=for-the-badge&logo=bootstrap&logoColor=black&logoSize=24&labelColor=%23ffffff&color=%23ffffff"><img alt="Bootstrap CSS" src="https://img.shields.io/badge/Bootstrap%20CSS-black?style=for-the-badge&logo=bootstrap&logoColor=white&logoSize=24&labelColor=%230d1117&color=%230d1117"></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/react-asd?style=for-the-badge&logo=react&logoColor=white&labelColor=%230d1117&color=%230d1117"><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/react-white?style=for-the-badge&logo=react&logoColor=black&labelColor=%23ffffff&color=%23ffffff"><img alt="React" src="https://img.shields.io/badge/react-asd?style=for-the-badge&logo=react&logoColor=white&labelColor=%230d1117&color=%230d1117"></picture>
+<p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=white&labelColor=0d1117">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/HTML5-white?style=for-the-badge&logo=html5&logoColor=black&labelColor=white">
+    <img src="https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=white&labelColor=0d1117" alt="HTML5">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=white&labelColor=0d1117">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/CSS3-white?style=for-the-badge&logo=css3&logoColor=black&labelColor=white">
+    <img src="https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=white&labelColor=0d1117" alt="CSS3">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Tailwind_CSS-0d1117?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=0d1117">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Tailwind_CSS-white?style=for-the-badge&logo=tailwindcss&logoColor=black&labelColor=white">
+    <img src="https://img.shields.io/badge/Tailwind_CSS-0d1117?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=0d1117" alt="Tailwind">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Bootstrap-0d1117?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=0d1117">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Bootstrap-white?style=for-the-badge&logo=bootstrap&logoColor=black&labelColor=white">
+    <img src="https://img.shields.io/badge/Bootstrap-0d1117?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=0d1117" alt="Bootstrap">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=white&labelColor=0d1117">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/React-white?style=for-the-badge&logo=react&logoColor=black&labelColor=white">
+    <img src="https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=white&labelColor=0d1117" alt="React">
+  </picture>
+</p>
 
 ###### Backend & Frameworks:
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nextdotjs&logoColor=white&logoSize=24&labelColor=%230d1117&color=%230d1117"><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Next.js-white?style=for-the-badge&logo=nextdotjs&logoColor=black&logoSize=24&labelColor=%23ffffff&color=%23ffffff"><img alt="Next.js" src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nextdotjs&logoColor=white&logoSize=24&labelColor=%230d1117&color=%230d1117"></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Vue.JS-a?style=for-the-badge&logo=vuedotjs&logoColor=white&labelColor=%230d1117&color=%230d1117"><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Vue.JS-white?style=for-the-badge&logo=vuedotjs&logoColor=black&labelColor=%23ffffff&color=%23ffffff"><img alt="Vue.JS" src="https://img.shields.io/badge/Vue.JS-a?style=for-the-badge&logo=vuedotjs&logoColor=white&labelColor=%230d1117&color=%230d1117"></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/.NET-black?style=for-the-badge&logo=dotnet&logoColor=white&logoSize=24&labelColor=%230d1117&color=%230d1117"><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/.NET-white?style=for-the-badge&logo=dotnet&logoColor=black&logoSize=24&labelColor=%23ffffff&color=%23ffffff"><img alt=".NET" src="https://img.shields.io/badge/.NET-black?style=for-the-badge&logo=dotnet&logoColor=white&logoSize=24&labelColor=%230d1117&color=%230d1117"></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/laravel-a?style=for-the-badge&logo=laravel&logoColor=white&labelColor=%230d1117&color=%230d1117"><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/laravel-white?style=for-the-badge&logo=laravel&logoColor=black&labelColor=%23ffffff&color=%23ffffff"><img alt="Laravel" src="https://img.shields.io/badge/laravel-a?style=for-the-badge&logo=laravel&logoColor=white&labelColor=%230d1117&color=%230d1117"></picture>
+<p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Next.js-0d1117?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=0d1117">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Next.js-white?style=for-the-badge&logo=nextdotjs&logoColor=black&labelColor=white">
+    <img src="https://img.shields.io/badge/Next.js-0d1117?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=0d1117" alt="Next.js">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0d1117">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/TypeScript-white?style=for-the-badge&logo=typescript&logoColor=black&labelColor=white">
+    <img src="https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0d1117" alt="TypeScript">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Spring_Boot-0d1117?style=for-the-badge&logo=springboot&logoColor=white&labelColor=0d1117">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Spring_Boot-white?style=for-the-badge&logo=springboot&logoColor=black&labelColor=white">
+    <img src="https://img.shields.io/badge/Spring_Boot-0d1117?style=for-the-badge&logo=springboot&logoColor=white&labelColor=0d1117" alt="Spring Boot">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Laravel-0d1117?style=for-the-badge&logo=laravel&logoColor=white&labelColor=0d1117">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Laravel-white?style=for-the-badge&logo=laravel&logoColor=black&labelColor=white">
+    <img src="https://img.shields.io/badge/Laravel-0d1117?style=for-the-badge&logo=laravel&logoColor=white&labelColor=0d1117" alt="Laravel">
+  </picture>
+</p>
 
 ###### Machine Learning & Data Science:
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/numpy-a?style=for-the-badge&logo=numpy&logoColor=white&labelColor=%230d1117&color=%230d1117"><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/numpy-white?style=for-the-badge&logo=numpy&logoColor=black&labelColor=%23ffffff&color=%23ffffff"><img alt="NumPy" src="https://img.shields.io/badge/numpy-a?style=for-the-badge&logo=numpy&logoColor=white&labelColor=%230d1117&color=%230d1117"></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/pandas-a?style=for-the-badge&logo=pandas&logoColor=white&labelColor=%230d1117&color=%230d1117"><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/pandas-white?style=for-the-badge&logo=pandas&logoColor=black&labelColor=%23ffffff&color=%23ffffff"><img alt="Pandas" src="https://img.shields.io/badge/pandas-a?style=for-the-badge&logo=pandas&logoColor=white&labelColor=%230d1117&color=%230d1117"></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/r-a?style=for-the-badge&logo=r&logoColor=white&labelColor=%230d1117&color=%230d1117"><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/r-white?style=for-the-badge&logo=r&logoColor=black&labelColor=%23ffffff&color=%23ffffff"><img alt="R" src="https://img.shields.io/badge/r-a?style=for-the-badge&logo=r&logoColor=white&labelColor=%230d1117&color=%230d1117"></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/jupyter-a?style=for-the-badge&logo=jupyter&logoColor=white&labelColor=%230d1117&color=%230d1117"><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/jupyter-white?style=for-the-badge&logo=jupyter&logoColor=black&labelColor=%23ffffff&color=%23ffffff"><img alt="Jupyter" src="https://img.shields.io/badge/jupyter-a?style=for-the-badge&logo=jupyter&logoColor=white&labelColor=%230d1117&color=%230d1117"></picture>
+<p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/NumPy-0d1117?style=for-the-badge&logo=numpy&logoColor=white&labelColor=0d1117">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/NumPy-white?style=for-the-badge&logo=numpy&logoColor=black&labelColor=white">
+    <img src="https://img.shields.io/badge/NumPy-0d1117?style=for-the-badge&logo=numpy&logoColor=white&labelColor=0d1117" alt="NumPy">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=white&labelColor=0d1117">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Pandas-white?style=for-the-badge&logo=pandas&logoColor=black&labelColor=white">
+    <img src="https://img.shields.io/badge/Pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=white&labelColor=0d1117" alt="Pandas">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/R-0d1117?style=for-the-badge&logo=r&logoColor=white&labelColor=0d1117">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/R-white?style=for-the-badge&logo=r&logoColor=black&labelColor=white">
+    <img src="https://img.shields.io/badge/R-0d1117?style=for-the-badge&logo=r&logoColor=white&labelColor=0d1117" alt="R">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Jupyter-0d1117?style=for-the-badge&logo=jupyter&logoColor=white&labelColor=0d1117">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Jupyter-white?style=for-the-badge&logo=jupyter&logoColor=black&labelColor=white">
+    <img src="https://img.shields.io/badge/Jupyter-0d1117?style=for-the-badge&logo=jupyter&logoColor=white&labelColor=0d1117" alt="Jupyter">
+  </picture>
+</p>
 
 ###### Database Management:
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/mysql-a?style=for-the-badge&logo=mysql&logoColor=white&labelColor=%230d1117&color=%230d1117"><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/mysql-white?style=for-the-badge&logo=mysql&logoColor=black&labelColor=%23ffffff&color=%23ffffff"><img alt="MySQL" src="https://img.shields.io/badge/mysql-a?style=for-the-badge&logo=mysql&logoColor=white&labelColor=%230d1117&color=%230d1117"></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/postgresql-a?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=%230d1117&color=%230d1117"><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/postgresql-white?style=for-the-badge&logo=postgresql&logoColor=black&labelColor=%23ffffff&color=%23ffffff"><img alt="PostgreSQL" src="https://img.shields.io/badge/postgresql-a?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=%230d1117&color=%230d1117"></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/mariadb-a?style=for-the-badge&logo=mariadb&logoColor=white&labelColor=%230d1117&color=%230d1117"><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/mariadb-white?style=for-the-badge&logo=mariadb&logoColor=black&labelColor=%23ffffff&color=%23ffffff"><img alt="MariaDB" src="https://img.shields.io/badge/mariadb-a?style=for-the-badge&logo=mariadb&logoColor=white&labelColor=%230d1117&color=%230d1117"></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/mongodb-a?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=%230d1117&color=%230d1117"><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/mongodb-white?style=for-the-badge&logo=mongodb&logoColor=black&labelColor=%23ffffff&color=%23ffffff"><img alt="MongoDB" src="https://img.shields.io/badge/mongodb-a?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=%230d1117&color=%230d1117"></picture>
+<p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=white&labelColor=0d1117">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/MySQL-white?style=for-the-badge&logo=mysql&logoColor=black&labelColor=white">
+    <img src="https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=white&labelColor=0d1117" alt="MySQL">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=0d1117">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/PostgreSQL-white?style=for-the-badge&logo=postgresql&logoColor=black&labelColor=white">
+    <img src="https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=0d1117" alt="PostgreSQL">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/MariaDB-0d1117?style=for-the-badge&logo=mariadb&logoColor=white&labelColor=0d1117">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/MariaDB-white?style=for-the-badge&logo=mariadb&logoColor=black&labelColor=white">
+    <img src="https://img.shields.io/badge/MariaDB-0d1117?style=for-the-badge&logo=mariadb&logoColor=white&labelColor=0d1117" alt="MariaDB">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=0d1117">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=black&labelColor=white">
+    <img src="https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=0d1117" alt="MongoDB">
+  </picture>
+</p>
