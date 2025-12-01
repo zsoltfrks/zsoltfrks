@@ -7,7 +7,7 @@
 I am currently reading [Designing Data-Intensive Applications](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/) by Martin Kleppmann
 #
 
-#### Tech Stack  
+#### Languages  
 <div align="center">
   <img src="https://cdn.simpleicons.org/cplusplus/000/fff" alt="C++" width="45" height="45"/>&nbsp;
   <img src="https://cdn.simpleicons.org/lua/000/fff" alt="Lua" width="45" height="45"/>&nbsp;
