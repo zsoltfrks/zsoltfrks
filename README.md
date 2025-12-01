@@ -3,6 +3,8 @@
 - Passionate about **continuous learning** and **self-improvement**  
 - Focused on **software development** and emerging technologies  
 - Avid **hardcore gamer** and general **technology geek**
+
+I am currently reading [Designing Data-Intensive Applications](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/) by Martin Kleppmann
 #
 
 #### Tech Stack  
