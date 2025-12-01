@@ -27,4 +27,4 @@ I am currently reading [Designing Data-Intensive Applications](https://www.oreil
 #
 
 #### Contact
-If you'd like to reach me, feel free to send an [email](mailto:zsoltf4rk4s@protonmail.com) or connect via [Steam](https://steamcommunity.com/id/raszta/)
+If you'd like to reach me, feel free to send an [email](mailto:zsoltf4rk4s@protonmail.com) or connect via [LinkedIn](https://www.linkedin.com/in/zsoltfrks)
