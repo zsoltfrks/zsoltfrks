@@ -14,6 +14,7 @@ I am currently reading [Designing Data-Intensive Applications](https://www.oreil
   <img src="./java-white.png" alt="Java" width="45" height="45"/>&nbsp;
   <img src="https://cdn.simpleicons.org/python/000/fff" alt="Python" width="45" height="45"/>&nbsp;
   <img src="https://cdn.simpleicons.org/lua/000/fff" alt="Lua" width="45" height="45"/>&nbsp;
+  <img src="https://cdn.simpleicons.org/r/000/fff" alt="Lua" width="45" height="45"/>&nbsp;
   <img src="https://cdn.simpleicons.org/react/000/fff" alt="React" width="45" height="45"/>&nbsp;
   <img src="https://cdn.simpleicons.org/nextdotjs/000/fff" alt="Next.js" width="45" height="45"/>&nbsp;
   <img src="https://cdn.simpleicons.org/tailwindcss/000/fff" alt="TailwindCSS" width="45" height="45"/>&nbsp;
