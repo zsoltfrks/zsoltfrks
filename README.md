@@ -1,6 +1,7 @@
 #### About Me
 - Computer Science BSc student from **Szeged, Hungary**  
-- Passionate about **continuous learning** and **self-improvement**  
+- Passionate about **continuous learning** and **self-improvement**
+- I am aiming to become a **full stack software developer**  
 - Focused on **software development** and emerging technologies  
 - Avid **hardcore gamer** and general **technology geek**
 
