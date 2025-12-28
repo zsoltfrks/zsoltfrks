@@ -15,10 +15,11 @@ I am currently reading [Designing Data-Intensive Applications](https://www.oreil
   <img src="./java-white.png" alt="Java" width="45" height="45"/>&nbsp;
   <img src="https://cdn.simpleicons.org/python/000/fff" alt="Python" width="45" height="45"/>&nbsp;
   <img src="https://cdn.simpleicons.org/lua/000/fff" alt="Lua" width="45" height="45"/>&nbsp;
+  <img src="https://cdn.simpleicons.org/javascript/000/fff" alt="JavaScript" width="45" height="45"/>&nbsp;
+  <img src="https://cdn.simpleicons.org/typescript/000/fff" alt="TypeScript" width="45" height="45"/>&nbsp;
   <img src="https://cdn.simpleicons.org/react/000/fff" alt="React" width="45" height="45"/>&nbsp;
   <img src="https://cdn.simpleicons.org/nextdotjs/000/fff" alt="Next.js" width="45" height="45"/>&nbsp;
   <img src="https://cdn.simpleicons.org/tailwindcss/000/fff" alt="TailwindCSS" width="45" height="45"/>&nbsp;
-  <img src="https://cdn.simpleicons.org/shadcnui/000/fff" alt="Shadcn" width="45" height="45"/>&nbsp;
   <img src="https://cdn.simpleicons.org/springboot/000/fff" alt="Spring Boot" width="45" height="45"/>&nbsp;
   <img src="https://cdn.simpleicons.org/mysql/000/fff" alt="MySQL" width="45" height="45"/>&nbsp;
   <img src="https://cdn.simpleicons.org/postgresql/000/fff" alt="PostgreSQL" width="45" height="45"/>&nbsp;
